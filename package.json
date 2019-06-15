@@ -7,6 +7,7 @@
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
     "gatsby": "^2.8.6",
+    "gatsby-cli": "^2.6.7",
     "gatsby-image": "^2.1.2",
     "gatsby-plugin-google-analytics": "^2.0.20",
     "gatsby-plugin-manifest": "^2.1.1",
@@ -17,6 +18,7 @@
     "gatsby-plugin-styled-components": "^3.0.7",
     "gatsby-source-filesystem": "^2.0.38",
     "gatsby-transformer-sharp": "^2.1.21",
+    "global": "^4.4.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",

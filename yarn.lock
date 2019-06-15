@@ -5131,6 +5131,49 @@ gatsby-cli@^2.6.5:
     ink "^2.0.5"
     ink-spinner "^3.0.1"
 
+gatsby-cli@^2.6.7:
+  version "2.6.7"
+  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.6.7.tgz#8e2038c4e35cec3edcb465c16e74c1ae9483eecb"
+  integrity sha512-ngGOkozh0Wp2R2kblAUnMfMdPT84MoKMmuROqJVw+JUweB9zTrrGQsrH3ii26nw+7DDsrg6+AAkbELjp5SlYNA==
+  dependencies:
+    "@babel/code-frame" "^7.0.0"
+    "@babel/runtime" "^7.0.0"
+    bluebird "^3.5.0"
+    chalk "^2.4.2"
+    ci-info "^2.0.0"
+    clipboardy "^1.2.3"
+    common-tags "^1.4.0"
+    configstore "^4.0.0"
+    convert-hrtime "^2.0.0"
+    core-js "^2.5.0"
+    envinfo "^5.8.1"
+    execa "^0.8.0"
+    fs-exists-cached "^1.0.0"
+    fs-extra "^4.0.1"
+    gatsby-telemetry "^1.0.11"
+    hosted-git-info "^2.6.0"
+    is-valid-path "^0.1.1"
+    lodash "^4.17.10"
+    meant "^1.0.1"
+    node-fetch "2.3.0"
+    object.entries "^1.1.0"
+    opentracing "^0.14.3"
+    pretty-error "^2.1.1"
+    prompts "^2.1.0"
+    react "^16.8.4"
+    resolve-cwd "^2.0.0"
+    semver "^6.0.0"
+    source-map "0.5.7"
+    stack-trace "^0.0.10"
+    strip-ansi "^5.2.0"
+    update-notifier "^2.3.0"
+    uuid "3.3.2"
+    yargs "^12.0.5"
+    yurnalist "^1.0.5"
+  optionalDependencies:
+    ink "^2.0.5"
+    ink-spinner "^3.0.1"
+
 gatsby-graphiql-explorer@^0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/gatsby-graphiql-explorer/-/gatsby-graphiql-explorer-0.1.2.tgz#ac85ced2b0653f0c48e26c3eb6b10de3afce21ed"
@@ -5579,6 +5622,14 @@ global@^4.3.0, global@~4.3.0:
   dependencies:
     min-document "^2.19.0"
     process "~0.5.1"
+
+global@^4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/global/-/global-4.4.0.tgz#3e7b105179006a323ed71aafca3e9c57a5cc6406"
+  integrity sha512-wv/LAoHdRE3BeTGz53FAamhGlPLhlssK45usmGFThIi4XqnBmjKQ16u+RNbP7WvigRZDxUsM0J3gcQ5yicaL0w==
+  dependencies:
+    min-document "^2.19.0"
+    process "^0.11.10"
 
 globals@^11.1.0, globals@^11.7.0:
   version "11.10.0"
